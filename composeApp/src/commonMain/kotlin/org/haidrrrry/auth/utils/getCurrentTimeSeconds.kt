@@ -1,3 +1,3 @@
-package org.haidrrrry.auth
+package org.haidrrrry.auth.utils
 
 expect fun getCurrentTimeSeconds(): Long

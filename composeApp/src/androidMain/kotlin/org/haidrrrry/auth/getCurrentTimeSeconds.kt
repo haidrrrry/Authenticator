@@ -1,5 +1,5 @@
 package org.haidrrrry.auth
 
-actual fun getCurrentTimeSeconds(): Long {
-    return System.currentTimeMillis() / 1000
+actual fun getCurrentTimeMillis(): Long {
+    return System.currentTimeMillis()
 }

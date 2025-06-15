@@ -1,4 +1,5 @@
-package org.haidrrrry.auth
+package org.haidrrrry.auth.utils
+
 
 object Base32 {
     private val ALPHABET = "ABCDEFGHIJKLMNOPQRSTUVWXYZ234567"
@@ -37,4 +38,3 @@ object Base32 {
         return outputList.toByteArray()
     }
 }
-

@@ -1,7 +1,11 @@
 package org.haidrrrry.auth
 
-interface Platform {
+expect open class Platform {
     val name: String
 }
 
 expect fun getPlatform(): Platform
+
+expect fun getCurrentTimeMillis(): Long
+
+

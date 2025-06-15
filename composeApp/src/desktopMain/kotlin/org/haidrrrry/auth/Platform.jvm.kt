@@ -1,7 +1,7 @@
 package org.haidrrrry.auth
 
-class JVMPlatform: Platform {
-    override val name: String = "Java ${System.getProperty("java.version")}"
+actual open class Platform {
+    actual val name: String = "Java ${System.getProperty("java.version")}"
 }
 
-actual fun getPlatform(): Platform = JVMPlatform()
+actual fun getPlatform(): Platform = Platform()
