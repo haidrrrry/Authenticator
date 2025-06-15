@@ -42,7 +42,9 @@ import org.haidrrrry.auth.classes.ViewMode
 
 import org.haidrrrry.auth.repository.AuthViewModel
 import org.haidrrrry.auth.screens.ProvideAppTheme
+import org.haidrrrry.auth.screens.ThemeOption
 import org.haidrrrry.auth.screens.ThemeSettingsDialog
+
 import org.haidrrrry.auth.screens.appTheme
 import org.haidrrrry.auth.utils.AddAccountDialog
 import org.haidrrrry.auth.utils.AppColors

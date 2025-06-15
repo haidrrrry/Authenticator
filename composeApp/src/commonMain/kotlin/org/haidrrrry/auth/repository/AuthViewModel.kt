@@ -9,7 +9,7 @@ import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.flow.combine
 import kotlinx.coroutines.launch
 import org.haidrrrry.auth.classes.AuthAccount
-import org.haidrrrry.auth.repository.AuthRepository
+
 import androidx.compose.ui.graphics.Color
 
 class AuthViewModel(private val repository: AuthRepository) : ViewModel() {
