@@ -2,9 +2,6 @@
 
 A modern, cross-platform Two-Factor Authentication (2FA) app built with Compose Multiplatform. Generate secure TOTP codes for your accounts across Android, iOS, and Desktop platforms.
 
-https://github.com/user-attachments/assets/8d2a0116-3961-47fc-afee-3387b3fe67a8
-
-
 ## ✨ Features
 
 - **🔒 Secure TOTP Generation** - Generate time-based one-time passwords following RFC 6238
@@ -24,9 +21,9 @@ https://github.com/user-attachments/assets/8d2a0116-3961-47fc-afee-3387b3fe67a8
 - **iOS** (iOS 13+)
 - **Desktop** (Windows, macOS, Linux)
 
-## 📱 Screenshots
+## Demo Video
 
-*Coming soon - Screenshots will be added to showcase the beautiful UI across different platforms*
+https://github.com/user-attachments/assets/8d2a0116-3961-47fc-afee-3387b3fe67a8
 
 ## 🛠️ Tech Stack
 
