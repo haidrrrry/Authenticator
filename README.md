@@ -129,9 +129,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Biometric authentication
 - [ ] Apple Watch support
 - [ ] Wear OS support
-- [ ] Custom icons for services
-- [ ] Bulk operations
-- [ ] Advanced search filters
+
  
 
 ⭐ If you found this project helpful, please give it a star on GitHub!
